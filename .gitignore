@@ -1,0 +1,12 @@
+# Backend Spring Boot
+target/
+*.class
+# Frontend Angular
+node_modules/
+dist/
+.angular/
+# Secrets et IDE
+.env
+.idea/
+.vscode/
+*.log
